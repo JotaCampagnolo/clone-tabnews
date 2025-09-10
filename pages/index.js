@@ -1,10 +1,5 @@
 function Home() {
-  return (
-    <h1>
-      Frase bonita e impactante para que alguém veja e fique extremamente feliz!
-      😃
-    </h1>
-  );
+  return <h1>Amor, eu e o Otávio te amamos muito! 😍</h1>;
 }
 
 export default Home;
